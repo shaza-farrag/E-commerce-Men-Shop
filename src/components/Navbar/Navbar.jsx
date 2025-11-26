@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div>
         <div className="container-fluid navbackground">
-            <nav className="navbar navbar-expand-lg navbar-light ">
+            <nav className="navbar navbar-expand-lg ">
                 <div className=" container p-3">
                     <NavLink to={"/home"} className="navbar-brand fw-bold fs-3">E-commerce</NavLink>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
