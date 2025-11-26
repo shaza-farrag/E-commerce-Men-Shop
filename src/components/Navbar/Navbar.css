@@ -1,8 +1,12 @@
 .navbar{
     min-height: 80px;
 }
-.navbackground{
-    background-color: rgba(128, 128, 128, 0.26) !important;
+.navbackground {
+  background-color: rgba(128, 128, 128, 0.26) !important;
+}
+
+.navbackground .navbar {
+  background: transparent !important;
 }
 li{
     font-size: 17px;
