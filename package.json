@@ -1,9 +1,9 @@
 {
   "name": "proj1",
+  "homepage": "https://shaza-farrag.github.io/E-commerce-Men-Shop/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shaza-farrag.github.io/E-commerce-Men-Shop/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
