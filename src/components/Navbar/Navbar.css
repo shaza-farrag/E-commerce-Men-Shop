@@ -2,7 +2,7 @@
     min-height: 80px;
 }
 .navbackground{
-    background-color: rgba(128, 128, 128, 0.26);
+    background-color: rgba(128, 128, 128, 0.26) !important;
 }
 li{
     font-size: 17px;
