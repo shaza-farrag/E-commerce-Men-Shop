@@ -11,7 +11,7 @@ import Register from './Pages/Register'
 function App() {
   return (
     <div>
-       <Router>
+       <Router basename="/E-commerce-Men-Shop">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
