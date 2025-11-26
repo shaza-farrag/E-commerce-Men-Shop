@@ -1,0 +1,26 @@
+.creator{
+    text-decoration: underline;
+    text-underline-offset: 7px;
+    color: #480010;
+
+
+}
+.footer h5 , .footer span{
+  display: inline-block;
+  line-height: 1;
+}
+/* .footer{
+    height: 50px;
+} */
+.first-text{
+    color: black !important;
+}
+/* .large-div{
+    position: relative;
+    bottom: 0;
+    margin-bottom:0;
+} */
+.footer-parent{
+    position:absolute;
+    bottom: 0;
+}

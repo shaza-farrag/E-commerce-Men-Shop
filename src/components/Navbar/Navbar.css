@@ -1,0 +1,9 @@
+.navbar{
+    min-height: 80px;
+}
+.container-fluid{
+    background-color: rgba(128, 128, 128, 0.26);
+}
+li{
+    font-size: 17px;
+}
